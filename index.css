@@ -1,1 +1,18 @@
-css document
+
+html {
+  text-align: center;
+}
+
+.titlecontainer {
+  display:flex;
+  justify-content: space-evenly;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.cactuscontainer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
