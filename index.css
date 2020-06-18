@@ -5,8 +5,8 @@ html {
 
 .titlecontainer {
   display:flex;
-  justify-content: space-evenly;
-  width: 50%;
+  justify-content: center;
+  width: 100%;
   text-align: center;
   margin: auto;
 }
