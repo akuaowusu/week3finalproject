@@ -50,11 +50,11 @@ button:active {
 }
 
 @keyframes popup {
-  50%  {top: 0px; left: 10px;}
-  50%  {top: 0px; right: 10px;}
+  from {transform:rotate(-25deg);}
+  to {transform:rotate(25deg);}
 }
 
 .cactusAnim {
   position: relative;
-  animation: popup 5s infinite;
+  animation: popup 3s infinite;
 }
